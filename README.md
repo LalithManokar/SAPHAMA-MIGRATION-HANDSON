@@ -43,10 +43,12 @@ By the end of this scenario, you will have a migrated CAP project with database 
 
 ## Exercises
 
-- Prepare Your Development Environment
-- Perform XS Advanced to CAP Migration Using the SAP HANA Application Migration Assistant
-- Post Migration Changes 
-- Deploy the Migrated CAP Application
+- [Excerise 1 : Prepare Your Development Environment](/exercises/ex1/README.md)
+- [Exercise 2 : Run the SAP HANA Application Migration Assistant](/exercises/ex2/README.md)
+- [Exercise 3 : Post Migration Changes for Database Layer](/exercises/ex3/README.md)
+- [Exercise 4 : Deployment of the Migrated database artifacts](/exercises/ex4/README.md)
+- [Excerise 5 : Post Migration Changes for Service Layer](/exercises/ex5/README.md)
+- [Excerise 6 : Test the Migrated CAP Application](/exercises/ex6/README.md)
 
 ## Further Information
 
