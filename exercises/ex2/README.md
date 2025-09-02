@@ -52,9 +52,11 @@ In this exercise, we will focus on the XSA to CAP migration path, simplifying th
 
 <br>![](/exercises/ex2/images/schema.png)
 
-12. Once you see the pop-up notification at the bottom right corner of your screen, it means that the migration process is underway. This notification will keep you updated on all the steps that follow. At the end of the process, a CAP project with the revised database artifacts will be created. Additionally, a `report.html` file will be generated within the project. This file contains detailed information about your project's migration.
+12. Once you see the pop-up notification at the bottom right corner of your screen, it means that the migration process is underway. This notification will keep you updated on all the steps that follow. At the end of the process, a CAP project with the revised database artifacts will be created.
 
 <br>![](/exercises/ex2/images/finish.png)
+
+13. A `report.html` file will be generated within the project. This file contains detailed information about your project's migration. Download the Project Locally and open the `Report.html` in browser
 
 ## Summary
 
