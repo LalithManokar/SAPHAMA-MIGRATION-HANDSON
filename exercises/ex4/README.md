@@ -29,5 +29,5 @@ In this exercise, we will deploy the migrated CAP project to the SAP Business Te
 
 You've now successfully completed the deployment of database artifacts into SAP Hana Cloud.
 
-Continue to - [Exercise 5 - Service Layer Migration](../ex5/README.md)
+Continue to - [Exercise 5 - Service Layer Migration changes ](../ex5/README.md)
 

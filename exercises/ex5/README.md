@@ -84,4 +84,4 @@ export async function my_update_after_exit(req) {
 
 You've now successfully completed the post migration steps for service layer of the CAP project.
 
-Continue to - [Exercise 5 - Test the Application Locally](../ex4/README.md)
+Continue to - [Exercise 5 - Test the Application Locally](../ex6/README.md)
