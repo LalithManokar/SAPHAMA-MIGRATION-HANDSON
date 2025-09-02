@@ -54,7 +54,7 @@ The last step of the tutorial is to Login to the Cloud Foundry Environment.
 2. Run the below command in the opened terminal
 
    ```
-   cf login -a https://api.cf.us20.hana.ondemand.com/
+   cf login -a https://api.cf.us20.hana.ondemand.com/ --origin a5dnmokpl-platform
    ```
 
 3. Enter the User Email and Password provided.
