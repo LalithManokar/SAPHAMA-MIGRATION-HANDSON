@@ -8,7 +8,7 @@ The First step in this exercise is to create a dev space.
 
 1. Launch the [SAP Business Application studio or SAP Build subscription](https://enable-demo.us20.build.cloud.sap/lobby). This will take you to the lobby page and from there switch to Dev space manager.
 
-2. Select IDP `terraformeds2.accounts.ondemand.com` and enter User `MigrationUserXX ` and password `HappyMigration`
+2. Select IDP `a5dnmokpl.accounts.ondemand.com` and enter User `MigrationUserXX ` and password `HappyMigration`
 
 3. Select the `Dev Space Manager` option as shown below.
 
