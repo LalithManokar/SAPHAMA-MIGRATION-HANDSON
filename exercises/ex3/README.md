@@ -3,7 +3,7 @@
 In this exercise we will make some adjustments manually once the project is created,as these are not currently handled by the SAP HANA Application Migration Assistant.
 
 
-1. For the `ShineDemoSource` project, make the following changes:
+1. For the Migrated CAP Application project, make the following changes:
     - A folder named `unsupported_feature` has been created by the extension to contain file extensions that are not supported in SAP HANA Cloud. Delete this unsupported_feature folder from `db/src/data` folder. For more information on the unsupported features, please refer to this [link](https://help.sap.com/docs/hana-cloud/sap-hana-cloud-migration-guide/design-time-content-compatibility).
 
 2. Run `cds build --profile production` command in the root folder of the target cap project to check for any CDS errors.
